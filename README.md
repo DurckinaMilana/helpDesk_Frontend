@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o90bpxax3ccvhinu?svg=true)](https://ci.appveyor.com/project/DurckinaMilana/helpdesk-frontend)
